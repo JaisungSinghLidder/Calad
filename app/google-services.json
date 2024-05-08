@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904279476134",
+    "project_id": "calad-f2aae",
+    "storage_bucket": "calad-f2aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904279476134:android:a3add25b1389069578b167",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9u-NuB6zVhhrYQEy3HYzslcmMmmC2Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904279476134:android:3396af1ae5d6d81578b167",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9u-NuB6zVhhrYQEy3HYzslcmMmmC2Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

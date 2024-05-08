@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#99FFFFFF</color>
+    <color name="orangelighter">#99F1AF40</color>
+    <color name="orangelight">#55F1AF40</color>
+    <color name="orangeSolid">#F1AF40</color>
+    <color name="color_black">#000000</color>
+    <color name="link">#2200CC</color>
+    <color name="blank">#00FFFFFF</color>
+    <color name="orange">#000000</color>
+
+</resources>
